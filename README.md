@@ -1,1 +1,1 @@
-# 2020-AAAI-SMLN
+Peng Hu, Hongyuan Zhu, Xi Peng, Jie Lin, Semi-supervised Multi-modal Learning with Balanced Spectral Decomposition, Thirty-Fourth AAAI Conference on Artificial Intelligence, Feb 7-12, 2020, New York, NY. (Oral). 
